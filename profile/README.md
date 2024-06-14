@@ -7,4 +7,10 @@
 
 | Name                | Bangkit ID | Path | University |
 |---------------------|------------|----------------|-----------------------|
-| Rovino Alana Herlantoro | C297D4KY0123 | Cloud Computing| Universitas Pembangunan Nasional “Veteran” Yogyakarta |
+| Bonas Lutfiansyah | M179D4KY3322 | Machine Learning | Ahmad Dahlan University Yogyakarta |
+| Andrea Tiara Suparmadi | M179D4KX1417 | Machine Learning | Ahmad Dahlan University Yogyakarta |
+| Akhtar Reyhansyach | C297D4KY0123 | Machine Learning | Universitas Gadjah Mada |
+| Rovino Alana Herlantoro | C297D4KY0123 | Cloud Computing | Universitas Pembangunan Nasional “Veteran” Yogyakarta |
+| Raynald Sage Krisnawan | C297D4KY0392 | Cloud Computing | Universitas Pembangunan Nasional “Veteran” Yogyakarta |
+| Jason Renanda Akbar | A297D4KY3961 | Mobile Development | Universitas Pembangunan Nasional “Veteran” Yogyakarta |
+| Rizal Darusman | A548D4NY4644 | Mobile Development | Universitas Islam Negeri Sunan Kalijaga |
