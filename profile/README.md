@@ -1,7 +1,7 @@
 # BASANTARA
 
 ## About
-**Basantara is an app that provide education about sign language. Its main feature is giving the user an example of the sign, then user try to do it and take a picture of it, the app will check is user already doing the correct sign.**
+**Basantara is an educational mobile application focused on BISINDO sign language. It provides detailed steps to learn sign language and includes an AI feature to detect sign language made by the user. Aiming to bridge the communication gap between the hearing and Deaf communities, Basantara is designed to be inclusive and user-friendly. Key features include a Learning menu that offers steps and instructions on forming sign language, and a Scanning menu that detects sign language from photos in the gallery or through direct capture.**
 ## Team Member
 **Group ID : C241-PS335**
 
